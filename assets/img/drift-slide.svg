@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-label="drift slide shoe illustration"><defs>
+ <linearGradient id="leather" x1="0" x2=".8" y1="0" y2="1"><stop stop-color="#effbfb"/><stop offset=".50" stop-color="#cae7e7"/><stop offset="1" stop-color="#74a6aa"/></linearGradient>
+ <linearGradient id="sole" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#d8dfdd"/><stop offset="1" stop-color="#8b9694"/></linearGradient>
+ <linearGradient id="strap" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#effbfb"/><stop offset="1" stop-color="#74a6aa"/></linearGradient>
+ <pattern id="mesh" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0L9 9M9 0L0 9" stroke="#74a6aa" stroke-opacity=".24" stroke-width=".7"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <filter id="shoeShadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="9" flood-opacity=".28"/></filter>
+ </defs><ellipse cx="395" cy="383" rx="275" ry="22" fill="#070c13" opacity=".23" filter="url(#blur)"/><g filter="url(#shoeShadow)">
+  <path d="M103 315 Q142 302 201 297 L602 288 Q685 284 711 301 Q726 309 700 330 Q678 349 595 354 L206 356 Q113 354 101 336 Q95 326 103 315Z" fill="url(#sole)" stroke="#74a6aa" stroke-width="2"/>
+  <path d="M114 329 Q162 342 211 340 L643 336 Q688 331 704 314" fill="none" stroke="#6c7379" stroke-width="7" stroke-opacity=".45"/>
+  <path d="M243 294 C261 235 281 198 318 184 Q375 166 438 183 Q504 200 563 291 Q524 307 481 305 Q440 240 399 227 Q353 212 328 302 Q284 310 243 294Z" fill="url(#strap)" stroke="#74a6aa" stroke-width="2"/>
+  <path d="M262 288 Q297 208 322 199 Q390 167 444 206 Q485 232 541 289" fill="none" stroke="#effbfb" stroke-width="9" opacity=".60"/>
+  <path d="M292 288 Q335 216 359 218 Q399 216 442 272" fill="none" stroke="#74a6aa" stroke-width="2.5" opacity=".4"/>
+  <rect x="375" y="223" rx="7" width="98" height="17" fill="#effbfb" transform="rotate(10 375 223)" opacity=".77"/>
+  <path d="M170 305 Q285 317 447 310 Q596 307 664 295" stroke="white" opacity=".65" stroke-width="4" fill="none"/>
+  </g></svg>

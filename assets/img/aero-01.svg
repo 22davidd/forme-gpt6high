@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-label="aero 01 shoe illustration"><defs>
+ <linearGradient id="leather" x1="0" x2=".8" y1="0" y2="1"><stop stop-color="#eef9e4"/><stop offset=".50" stop-color="#d3e6d7"/><stop offset="1" stop-color="#75968c"/></linearGradient>
+ <linearGradient id="sole" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#d8dfdd"/><stop offset="1" stop-color="#8b9694"/></linearGradient>
+ <linearGradient id="strap" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef9e4"/><stop offset="1" stop-color="#75968c"/></linearGradient>
+ <pattern id="mesh" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0L9 9M9 0L0 9" stroke="#75968c" stroke-opacity=".24" stroke-width=".7"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <filter id="shoeShadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="9" flood-opacity=".28"/></filter>
+ </defs><ellipse cx="395" cy="383" rx="275" ry="22" fill="#070c13" opacity=".23" filter="url(#blur)"/><g filter="url(#shoeShadow)">
+ <path d="M104 290 Q131 272 191 260 L287 225 Q324 207 356 177 Q368 166 388 168 L459 184 Q480 186 500 199 L558 211 Q588 215 604 235 L671 260 Q709 273 709 298 Q708 323 675 337 L210 339 Q117 334 104 309 Q99 301 104 290Z" fill="url(#leather)" stroke="#75968c" stroke-width="2.3" stroke-linejoin="round"/>
+ <path d="M114 301 Q171 286 246 304 Q380 329 534 310 Q641 300 706 293 Q723 302 712 328 Q710 352 681 359 L210 359 Q129 356 100 336 Q83 319 114 301Z" fill="url(#sole)" stroke="#b8c3c1" stroke-width="2"/>
+ <path d="M115 332 Q200 352 333 347 L665 348 Q703 345 711 326" fill="none" stroke="#6b747c" stroke-opacity=".42" stroke-width="5"/>
+ <path d="M120 315 Q188 315 238 327 Q395 344 577 322" stroke="white" opacity=".7" stroke-width="3" fill="none"/>
+ <path d="M142 290 Q190 264 266 254 L329 216 Q347 197 371 182" fill="none" stroke="#eef9e4" stroke-width="15" stroke-linecap="round" opacity=".62"/>
+ <path d="M138 285 C185 266 257 256 290 266 Q310 275 317 313 Q215 324 139 309Z" fill="url(#mesh)" opacity=".8"/>
+ <path d="M325 220 Q378 227 420 235 Q478 241 529 220 L596 245 Q567 269 508 288 Q412 310 316 302 Q338 270 325 220Z" fill="#75968c" opacity=".2"/>
+ <path d="M318 264 C375 263 432 282 510 250 Q532 241 557 243" fill="none" stroke="#aaf7d0" stroke-width="17" stroke-linecap="round" opacity=".83"/>
+ <path d="M328 277 Q416 299 500 270" fill="none" stroke="#eef9e4" stroke-width="3" opacity=".6"/>
+ <path d="M554 217 Q587 236 615 258 L662 270 Q680 286 670 316 L605 323 Q582 279 548 253Z" fill="#75968c" opacity=".34"/>
+ <path d="M560 228 Q591 251 611 274" fill="none" stroke="#eef9e4" stroke-width="3" opacity=".8"/>
+ <path d="M360 205 Q392 187 431 192 L467 208 L417 257 L325 240Z" fill="url(#strap)" stroke="#75968c" stroke-width="1"/>
+ <path d="M355 220 L431 236 M365 207 L442 223 M345 236 L416 250" stroke="#fff" stroke-opacity=".93" stroke-width="6" stroke-linecap="round"/>
+ <path d="M347 225 L414 239 M360 211 L428 227" stroke="#75968c" stroke-opacity=".55" stroke-width="1"/>
+ <path d="M474 207 Q488 197 510 211" fill="none" stroke="#eef9e4" stroke-width="7" stroke-linecap="round"/>
+ <path d="M161 335 L658 339" fill="none" stroke="#fff" stroke-opacity=".32" stroke-width="2" stroke-dasharray="2 8"/>
+ </g></svg>
